@@ -1,7 +1,5 @@
 {
   "name": "repotrends",
-  "version": "1.0.0",
-  "description": "Trending repositories",
   "author": "Gilbert Pellegrom",
   "private": true,
   "scripts": {
